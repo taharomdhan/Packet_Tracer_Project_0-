@@ -2,7 +2,7 @@
 
 Hello ! 
 
-This ismy first project in a series of projects 
+This is my first project in a series of projects 
 it's a packet tracer networking topology where we test connectivity between two subnets (two departments): 
 
 - first department is Accounts 
